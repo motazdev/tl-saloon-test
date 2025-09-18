@@ -15,18 +15,18 @@ import Footer from "@/components/shared/footer";
 import WhatsappFloatingButton from "@/components/WhatsappFloatingButton";
 
 export const metadata: Metadata = {
-  title: "AlYaman Platform",
-  description: "AlYaman Platform",
-  icons: [
-    {
-      url: "/icons/logo.png",
-      media: "(prefers-color-scheme: light)",
-    },
-    {
-      url: "/icons/logo.png",
-      media: "(prefers-color-scheme: dark)",
-    },
-  ],
+  title: "Saloon",
+  description: "Saloon",
+  // icons: [
+  //   {
+  //     url: "/icons/logo.png",
+  //     media: "(prefers-color-scheme: light)",
+  //   },
+  //   {
+  //     url: "/icons/logo.png",
+  //     media: "(prefers-color-scheme: dark)",
+  //   },
+  // ],
 };
 
 const secondayFont = Playfair_Display({

@@ -34,7 +34,7 @@ export async function generateMetadata({
 
   return {
     description: data.data.meta_description,
-    title: data.data.title + "|" + "Alyaman Platform",
+    title: data.data.title + "|" + "Saloon",
     openGraph: {
       title: data.data.title,
       description: data.data.meta_description,
